@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<h3> test </h3>
+<h3> Test </h3>
