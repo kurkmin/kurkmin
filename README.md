@@ -5,4 +5,4 @@
 ![Java](https://img.shields.io/badge/Java-red.svg?&style=for-the-badge&logo=java&logoColor=white)
 
 ## Frameworks
-![Flask](https://img.shields.io/badge/Flask-black.svg?&style=for-the-badge&logo=Flaskn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black.svg?&style=for-the-badge&logo=Flask&logoColor=white)
