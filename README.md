@@ -11,10 +11,11 @@
 ### Frameworks: 
 ![Flask](https://img.shields.io/badge/Flask-black.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-lightblue.svg?&style=for-the-badge&logo=React&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-darkgrey.svg?&style=for-the-badge&logo=Cypress&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-brown.svg?&style=for-the-badge&logo=Mocha&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-green.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 
 ### Databases:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-purple.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 
-### TDD-based-environment: 
