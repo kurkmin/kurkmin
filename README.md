@@ -24,6 +24,6 @@
 
 **Check my <a href="http://linkedin.com/in/sumin-oh-11410613a"/><img src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> profile!**
 
-<a href="http://linkedin.com/in/sumin-oh-11410613a"/><img src="https://img.shields.io/badge/blue.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<!-- <a href="http://linkedin.com/in/sumin-oh-11410613a"/><img src="https://img.shields.io/badge/blue.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> -->
 
 **You can also check my solo/group project below:**
