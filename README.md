@@ -1,5 +1,5 @@
 # Hello, I'm Sumin 👋
-## I have just graduated from Codeclan's Professional Software Development course, which covers: 
+### I am 3rd year Econ student at University of Glasgow and have just graduated from Codeclan's Professional Software Development course, which covers: 
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-purple.svg?&style=for-the-badge&logo=Python&logoColor=white)
