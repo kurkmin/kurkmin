@@ -6,3 +6,4 @@
 
 ## Frameworks
 ![Flask](https://img.shields.io/badge/Flask-black.svg?&style=for-the-badge&logo=Flask&logoColor=white)
+![React](https://img.shields.io/badge/React-lightblue.svg?&style=for-the-badge&logo=Reactk&logoColor=white)
