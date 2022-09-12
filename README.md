@@ -8,9 +8,11 @@
 ![Javascript](https://img.shields.io/badge/Javascript-yellow.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-### Frameworks: 
+### Frameworks/Environment: 
 ![Flask](https://img.shields.io/badge/Flask-black.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-lightblue.svg?&style=for-the-badge&logo=React&logoColor=white)
+![NodeJs](https://img.shields.io/badge/NodeJS-green.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/ExpressJS-yellow.svg?&style=for-the-badge&logo=Express&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-darkgrey.svg?&style=for-the-badge&logo=Cypress&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-brown.svg?&style=for-the-badge&logo=Mocha&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-green.svg?&style=for-the-badge&logo=Spring&logoColor=white)
