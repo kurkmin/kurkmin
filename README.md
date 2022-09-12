@@ -1,4 +1,4 @@
-# Hello, I'm Sumin 👋
+## Hello, I'm Sumin 👋
 **I am 3rd-year econ student at University of Glasgow and have just graduated from Codeclan's Professional Software Development course, which covers:**
 
 ### Languages:
