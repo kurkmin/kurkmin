@@ -22,6 +22,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-green.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 
 
-**Check my LinkedIn profile here!!**
+**Check my LinkedIn profile here:**
 
 <a href="http://linkedin.com/in/sumin-oh-11410613a"/><img src="https://img.shields.io/badge/Linkedin-blue.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
