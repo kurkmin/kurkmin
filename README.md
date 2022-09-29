@@ -26,4 +26,4 @@
 
 <a href="http://linkedin.com/in/sumin-oh-11410613a"/><img src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat&logo=LinkedIn&logoColor=white"/></a>
 
-**You can also check my Codeclan solo/group project below:**
+**You can also check my solo/group project from Codeclan as well as the current project I am working on below:**
